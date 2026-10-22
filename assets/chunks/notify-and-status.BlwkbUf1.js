@@ -1,0 +1,1 @@
+const a="/images/dashboard-layout-card-v2/view.png",s="/images/dashboard-layout-card-v2/view-layout-selection.png",o="/images/dashboard-layout-card-v2/demo.mp4",t="/images/dashboard-layout-card-v2/notify-helper-missing.png",d="/images/dashboard-layout-card-v2/notify-and-status.png";export{a as _,s as a,o as b,t as c,d};

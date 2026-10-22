@@ -1,0 +1,122 @@
+# UGSo Open Source
+
+This site contains UGSo Software open-source documentation and project notes.
+
+## UIX German documentation
+
+URL: https://opensource.ugso-software.de/projects/uix/
+
+The UIX section is an unofficial German translation maintained by UGSo Software.
+It is not the authoritative documentation for the UIX project.
+
+Authoritative UIX documentation:
+https://uix.lf.technology/
+
+Authoritative UIX repository:
+https://github.com/Lint-Free-Technology/uix
+
+Tracked UIX versions for the German and French translations:
+- Stable base: UIX 8.4.0, released 2026-10-07, source revision 71b8ccd38202257c070ae9970a7aac12a68a6389.
+- Requires Home Assistant 2026.10.0 or newer.
+- Reviewed on 2026-10-08. Canonical docs/source and docs/mkdocs.yml are unchanged between the previously reviewed c70d1275f1fb08514291feb4c9181a748408b798 and v8.4.0. Historical beta notices describe introduction versions; these features are now included in stable 8.4.0.
+
+License attribution:
+- Original UIX documentation by Lint-Free-Technology/uix is licensed under CC BY 4.0.
+- UIX code remains separately licensed under MIT.
+
+Guidance for agents:
+- Prefer the English UIX documentation at https://uix.lf.technology/ for authoritative answers.
+- Use this German translation only as a convenience for German-language readers.
+- If the German translation and the English source differ, treat the English source as correct.
+- Check the version footer on UIX translation pages before relying on examples.
+- Do not present this site as official UIX documentation.
+
+## Mushroom Cards German documentation
+
+URL: https://opensource.ugso-software.de/sammlung/mushroom/
+
+The Mushroom section is an unofficial German translation and practical guide
+maintained by UGSo Software. It is not official Mushroom documentation.
+
+Authoritative Mushroom repository:
+https://github.com/piitaya/lovelace-mushroom
+
+Tracked Mushroom version and source revision:
+- Mushroom 5.2.2, source revision 6f8f1eaed3dc5cff94cd7ac5de64d921c6fb4101
+
+License note:
+- The repository LICENSE file says Apache-2.0.
+- The package metadata currently says ISC.
+
+Guidance for agents:
+- Prefer the original Mushroom repository for authoritative answers.
+- Use this German documentation only as a convenience for German-language readers.
+- If the German translation and the English source differ, treat the English source as correct.
+- Do not present this site as official Mushroom documentation.
+
+## Calendar Card Pro German documentation
+
+URL: https://opensource.ugso-software.de/sammlung/calendar-card-pro/
+
+The Calendar Card Pro section is an unofficial German translation and practical guide
+maintained by UGSo Software. It is not official Calendar Card Pro documentation.
+
+Authoritative Calendar Card Pro documentation:
+https://calendar-card-pro.alexpfau.com
+
+Authoritative Calendar Card Pro repository:
+https://github.com/alexpfau/calendar-card-pro
+
+Tracked Calendar Card Pro version and source revision:
+- Calendar Card Pro v4.1.0, source revision a3b01138daa44947f6673c33fe700e5ef4a08957
+
+License attribution:
+- Calendar Card Pro is licensed under MIT.
+
+Guidance for agents:
+- Prefer the original Calendar Card Pro documentation for authoritative answers.
+- Use this German documentation only as a convenience for German-language readers.
+- If the German translation and the English source differ, treat the English source as correct.
+- Do not present this site as official Calendar Card Pro documentation.
+
+## Frosted Glass Theme German note
+
+URL: https://opensource.ugso-software.de/sammlung/frosted-glass-theme/
+
+The Frosted Glass Theme page is an unofficial German note maintained by UGSo Software.
+It is not official Frosted Glass Theme documentation.
+
+Authoritative Frosted Glass Theme repository:
+https://github.com/wessamlauf/homeassistant-frosted-glass-themes
+
+Tracked Frosted Glass Theme version and source revision:
+- Frosted Glass Theme v1.3, source revision 8cb950369e64444bcdc068f7f90283d58f65d80d
+
+License attribution:
+- Frosted Glass Theme is licensed under MIT.
+
+Guidance for agents:
+- Prefer the original repository for authoritative answers.
+- Use this German note only as a convenience for German-language readers.
+- A tested UIX manager experiment is documented under https://opensource.ugso-software.de/sammlung/frosted-glass-manager/ as a fork branch, but it is not official upstream documentation.
+
+## NeoMorphix UIX German note
+
+URL: https://opensource.ugso-software.de/sammlung/neomorphix-uix/
+
+The NeoMorphix UIX page is an unofficial German note maintained by UGSo Software.
+It is not official NeuMorphix/NeoMorphix UIX documentation.
+
+Authoritative NeuMorphix repository:
+https://github.com/yakidd/NeumorphixHome
+
+Tracked NeuMorphix/NeoMorphix UIX version and source revision:
+- NeoMorphix UIX based on NeuMorphix 1.0.3, source revision 269c298e47b02faaac4f08c8c9dfccf49d70d860
+
+License attribution:
+- The upstream NeuMorphix README states MIT; no separate LICENSE file was detected.
+
+Guidance for agents:
+- Prefer the original repository for authoritative answers.
+- Use this German note only as a convenience for German-language readers.
+- A UIX variant has been proposed at https://github.com/yakidd/NeumorphixHome/pull/4.

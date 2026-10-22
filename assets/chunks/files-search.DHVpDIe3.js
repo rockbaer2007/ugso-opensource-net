@@ -1,0 +1,1 @@
+const s="/images/grafik-visual-studio/page-tabs.png",i="/images/grafik-visual-studio/palette-compact.png",a="/images/grafik-visual-studio/widget-selector-ten.png",t="/images/grafik-visual-studio/multi-move.png",o="/images/grafik-visual-studio/delete-dialog.png",e="/images/grafik-visual-studio/files-search.png";export{s as _,i as a,a as b,t as c,o as d,e};

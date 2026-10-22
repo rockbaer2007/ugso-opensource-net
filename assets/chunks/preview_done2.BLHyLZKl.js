@@ -1,0 +1,1 @@
+const e="/images/ultimate-timer/demo.gif",i="/images/ultimate-timer/preview_idle1.png",t="/images/ultimate-timer/preview_runing1.png",m="/images/ultimate-timer/preview_done1.png",s="/images/ultimate-timer/preview_idle2.png",r="/images/ultimate-timer/preview_runing2.png",a="/images/ultimate-timer/preview_done2.png";export{e as _,i as a,t as b,m as c,s as d,r as e,a as f};
