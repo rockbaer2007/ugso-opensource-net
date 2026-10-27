@@ -1,0 +1,1 @@
+const e="/images/eep/eep18-banner.png",s="/images/eep/eep18-layout.png",a="/images/packages/eep-ini-edit-translate-2026.ico",p="/images/packages/eep-projektduplicator-2026.ico";export{e as _,s as a,a as b,p as c};
