@@ -1,0 +1,1 @@
+const s="/assets/blocks-for-ha/grid/de/light.png",o="/assets/blocks-for-ha/grid/de/dark.png",t="/assets/blocks-for-ha/themes/de/dark.png",a="/assets/blocks-for-ha/themes/de/tritanopia.png";export{s as _,o as a,t as b,a as c};
