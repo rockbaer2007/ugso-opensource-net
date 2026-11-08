@@ -1,0 +1,1 @@
+const a="/images/sidebar-manager/shortcuts-0110-177.png",s="/images/sidebar-manager/farbwaehler-177.png",e="/images/sidebar-manager/web-link-016-177.png",n="/images/sidebar-manager/ordnerposition-017-177.png",r="/images/sidebar-manager/trennlinie-eingeklappt-017-177.png",i="/images/sidebar-manager/web-panel-016-177.png";export{a as _,s as a,e as b,n as c,r as d,i as e};
